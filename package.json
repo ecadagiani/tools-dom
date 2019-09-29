@@ -1,0 +1,24 @@
+{
+  "name": "@ecadagiani/domtools",
+  "version": "1.0.1",
+  "description": "My DOM tools: functions, class, ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecadagiani/domTools.git"
+  },
+  "author": "Eden Cadagiani <e.cadagiani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecadagiani/domTools/issues"
+  },
+  "homepage": "https://github.com/ecadagiani/domTools#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.0"
+  }
+}
